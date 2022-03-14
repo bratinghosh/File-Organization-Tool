@@ -1,0 +1,12 @@
+tasks:
+  - task:
+      source: C:\Users\Bratin Ghosh\OneDrive\Desktop\File Organization Tool\test\source
+      destination: C:\Users\Bratin Ghosh\OneDrive\Desktop\File Organization Tool\test\dest
+      rules:
+        - rule:
+            type: keyword 
+            keyword: hello punk
+        # - rule:
+        #     type: extension
+        #     extension: png
+
